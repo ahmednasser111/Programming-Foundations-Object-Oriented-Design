@@ -1,0 +1,18 @@
+
+functional requirements 
+1- maintain a library of albums and songs 
+2- allow users to browse albums and songs 
+3- allow users to select individual songs 
+4- prevent users from selecting entire albums
+5- maintain a queue of songs to play 
+6- Play music! 
+wrong - the system must have a button that the user can click to sort by artist
+7- allow users to sort by artists 
+8- Identify individual users 
+
+non-functional
+1- intuitive to use
+2- available 24/7 
+3- low power 
+4- updated library 
+
