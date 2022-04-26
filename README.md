@@ -1,5 +1,9 @@
 # Programming-Foundations-Object-Oriented-Design
-LinkedIn Learning Course.
+LinkedIn Learning Course
+
+LinkedIn Profile : https://www.linkedin.com/in/ahmed-naser-16047a222/
+
+Certificate Link : https://www.linkedin.com/learning/certificates/f72e25b2ab2db84f6c3ff8657017d57520c04008d58f69c4d5fb26e5234bd283?trk=share_certificate
 
 ## Content
 
